@@ -1,3 +1,14 @@
+> ⚠️ **旗舰仓库已合并到 [`frankxzx/mcd-cli`](https://github.com/frankxzx/mcd-cli)**  
+> 同一个 Skill 里用 `mcd fit` 即可（另含 `mcd week` 周预算、`audit`、`checkout --dry-run`）。  
+> 大赛规则：同一 GitHub 账号只计 Star 最高的一个项目，请给 **mcd-cli** 点 ⭐。本仓库保留作归档，不再单独参赛推送。
+>
+> ```bash
+> git clone https://github.com/frankxzx/mcd-cli && cd mcd-cli
+> MCD_OFFLINE=1 ./bin/mcd fit --goal 高蛋白
+> ```
+
+---
+
 <h1 align="center">🍔💪 麦门健身餐 · mcd-fitness-meal</h1>
 
 <p align="center"><b>健身期也想吃麦当劳？告诉它你的热量和蛋白质目标，它帮你算出最省钱的那一顿。</b></p>
